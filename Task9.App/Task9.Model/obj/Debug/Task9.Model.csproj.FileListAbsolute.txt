@@ -1,0 +1,18 @@
+C:\Users\Пользователь\Desktop\Task9.App\Task9.Model\bin\Debug\Task9.Model.dll
+C:\Users\Пользователь\Desktop\Task9.App\Task9.Model\bin\Debug\Task9.Model.pdb
+C:\Users\Пользователь\Desktop\Task9.App\Task9.Model\obj\Debug\Task9.Model.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Task9.App\Task9.Model\obj\Debug\Task9.Model.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Task9.App\Task9.Model\obj\Debug\Task9.Model.dll
+C:\Users\Пользователь\Desktop\Task9.App\Task9.Model\obj\Debug\Task9.Model.pdb
+C:\Users\Daniil\Desktop\Task9.App\Task9.Model\bin\Debug\Task9.Model.dll
+C:\Users\Daniil\Desktop\Task9.App\Task9.Model\bin\Debug\Task9.Model.pdb
+C:\Users\Daniil\Desktop\Task9.App\Task9.Model\obj\Debug\Task9.Model.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\Task9.App\Task9.Model\obj\Debug\Task9.Model.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\Task9.App\Task9.Model\obj\Debug\Task9.Model.dll
+C:\Users\Daniil\Desktop\Task9.App\Task9.Model\obj\Debug\Task9.Model.pdb
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\Task9.Model\bin\Debug\Task9.Model.dll
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\Task9.Model\bin\Debug\Task9.Model.pdb
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\Task9.Model\obj\Debug\Task9.Model.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\Task9.Model\obj\Debug\Task9.Model.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\Task9.Model\obj\Debug\Task9.Model.dll
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\Task9.Model\obj\Debug\Task9.Model.pdb

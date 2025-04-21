@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD26893-4510-4EB6-A963-CEFB8ABA36DE}|..\\Task9.MTest\\Task9.MTest.csproj|c:\\users\\daniil\\desktop\\moto oop\\task9-oop\\task9.mtest\\mocks\\mockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD26893-4510-4EB6-A963-CEFB8ABA36DE}|..\\Task9.MTest\\Task9.MTest.csproj|c:\\users\\daniil\\desktop\\moto oop\\task9-oop\\task9.mtest\\coffeeoverviewviewmodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD26893-4510-4EB6-A963-CEFB8ABA36DE}|..\\Task9.MTest\\Task9.MTest.csproj|c:\\users\\daniil\\desktop\\moto oop\\task9-oop\\task9.mtest\\coffeedataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61CDFEA-397E-4198-935B-63535A2886BD}|Task9.DAL\\Task9.DAL.csproj|C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\task9.dal\\coffeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61CDFEA-397E-4198-935B-63535A2886BD}|Task9.DAL\\Task9.DAL.csproj|solutionrelative:task9.dal\\coffeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\converters\\priceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|solutionrelative:converters\\priceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|c:\\users\\daniil\\desktop\\moto oop\\task9-oop\\task9.app\\converters\\imageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|solutionrelative:converters\\imageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\view\\coffeedetailview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|solutionrelative:view\\coffeedetailview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|c:\\users\\daniil\\desktop\\moto oop\\task9-oop\\task9.app\\view\\coffeeoverviewview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|solutionrelative:view\\coffeeoverviewview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|c:\\users\\daniil\\desktop\\moto oop\\task9-oop\\task9.app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\viewmodel\\coffeeoverviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|solutionrelative:viewmodel\\coffeeoverviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\viewmodel\\coffeedetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|solutionrelative:viewmodel\\coffeedetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\services\\icoffeedateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|solutionrelative:services\\icoffeedateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\viewmodellocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7880E04A-54D4-44F0-B29E-4192DCE08DA9}|Task9.App.csproj|solutionrelative:viewmodellocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61CDFEA-397E-4198-935B-63535A2886BD}|Task9.DAL\\Task9.DAL.csproj|C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\task9.dal\\icoffeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61CDFEA-397E-4198-935B-63535A2886BD}|Task9.DAL\\Task9.DAL.csproj|solutionrelative:task9.dal\\icoffeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Task9.MTest\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Task9.MTest\\CoffeeDataServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Task9.MTest\\CoffeeOverviewViewModelTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniil\\Desktop\\Task9.MTest\\Mocks\\MockRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.MTest\\Mocks\\MockRepository.cs",
+              "RelativeDocumentMoniker": "..\\Task9.MTest\\Mocks\\MockRepository.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.MTest\\Mocks\\MockRepository.cs",
+              "RelativeToolTip": "..\\Task9.MTest\\Mocks\\MockRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:02:20.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoffeeOverviewViewModelTest.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.MTest\\CoffeeOverviewViewModelTest.cs",
+              "RelativeDocumentMoniker": "..\\Task9.MTest\\CoffeeOverviewViewModelTest.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.MTest\\CoffeeOverviewViewModelTest.cs",
+              "RelativeToolTip": "..\\Task9.MTest\\CoffeeOverviewViewModelTest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:02:17.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoffeeDataServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.MTest\\CoffeeDataServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\Task9.MTest\\CoffeeDataServiceTest.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.MTest\\CoffeeDataServiceTest.cs",
+              "RelativeToolTip": "..\\Task9.MTest\\CoffeeDataServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:02:15.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PriceConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\Converters\\PriceConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\PriceConverter.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\Converters\\PriceConverter.cs",
+              "RelativeToolTip": "Converters\\PriceConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:06:28.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CoffeeDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\ViewModel\\CoffeeDetailViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CoffeeDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\ViewModel\\CoffeeDetailViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CoffeeDetailViewModel.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwFcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:04:58.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CoffeeOverviewViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\ViewModel\\CoffeeOverviewViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CoffeeOverviewViewModel.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\ViewModel\\CoffeeOverviewViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CoffeeOverviewViewModel.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAawE0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:08:01.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoffeeOverviewView.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\View\\CoffeeOverviewView.xaml",
+              "RelativeDocumentMoniker": "View\\CoffeeOverviewView.xaml",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\View\\CoffeeOverviewView.xaml",
+              "RelativeToolTip": "View\\CoffeeOverviewView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-11T07:26:47.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-11T07:26:43.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoffeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\Task9.DAL\\CoffeeRepository.cs",
+              "RelativeDocumentMoniker": "Task9.DAL\\CoffeeRepository.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\Task9.DAL\\CoffeeRepository.cs",
+              "RelativeToolTip": "Task9.DAL\\CoffeeRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwHQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:32:01.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Task9.MTest\\packages.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Task9.MTest\\packages.config",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Task9.MTest\\packages.config",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Task9.MTest\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-11T07:24:58.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewModelLocator.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\ViewModelLocator.cs",
+              "RelativeDocumentMoniker": "ViewModelLocator.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\ViewModelLocator.cs",
+              "RelativeToolTip": "ViewModelLocator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:31:14.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\Task9.MTest\\Mocks\\MockRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Task9.MTest\\Mocks\\MockRepository.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\Task9.MTest\\Mocks\\MockRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\Task9.MTest\\Mocks\\MockRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:22:52.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T15:48:33.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\Converters\\ImageConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\ImageConverter.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\Converters\\ImageConverter.cs",
+              "RelativeToolTip": "Converters\\ImageConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:56:35.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoffeeDetailView.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\View\\CoffeeDetailView.xaml",
+              "RelativeDocumentMoniker": "View\\CoffeeDetailView.xaml",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\View\\CoffeeDetailView.xaml",
+              "RelativeToolTip": "View\\CoffeeDetailView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T11:05:01.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICoffeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\Task9.DAL\\ICoffeeRepository.cs",
+              "RelativeDocumentMoniker": "Task9.DAL\\ICoffeeRepository.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\Task9.DAL\\ICoffeeRepository.cs",
+              "RelativeToolTip": "Task9.DAL\\ICoffeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:31:37.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICoffeeDateService.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\Services\\ICoffeeDateService.cs",
+              "RelativeDocumentMoniker": "Services\\ICoffeeDateService.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\moto oop\\Task9-OOP\\Task9.App\\Services\\ICoffeeDateService.cs",
+              "RelativeToolTip": "Services\\ICoffeeDateService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:43:31.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CoffeeDataServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Task9.MTest\\CoffeeDataServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Task9.MTest\\CoffeeDataServiceTest.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Task9.MTest\\CoffeeDataServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Task9.MTest\\CoffeeDataServiceTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:07:55.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CoffeeOverviewViewModelTest.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Task9.MTest\\CoffeeOverviewViewModelTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Task9.MTest\\CoffeeOverviewViewModelTest.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Task9.MTest\\CoffeeOverviewViewModelTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Task9.MTest\\CoffeeOverviewViewModelTest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:07:44.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

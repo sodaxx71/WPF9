@@ -1,0 +1,27 @@
+C:\Users\Пользователь\Desktop\Task9.App\Task9.DAL\bin\Debug\Task9.DAL.dll
+C:\Users\Пользователь\Desktop\Task9.App\Task9.DAL\bin\Debug\Task9.DAL.pdb
+C:\Users\Пользователь\Desktop\Task9.App\Task9.DAL\bin\Debug\Task9.Model.dll
+C:\Users\Пользователь\Desktop\Task9.App\Task9.DAL\bin\Debug\Task9.Model.pdb
+C:\Users\Пользователь\Desktop\Task9.App\Task9.DAL\obj\Debug\Task9.DAL.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Task9.App\Task9.DAL\obj\Debug\Task9.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Task9.App\Task9.DAL\obj\Debug\Task9.DAL.csproj.Up2Date
+C:\Users\Пользователь\Desktop\Task9.App\Task9.DAL\obj\Debug\Task9.DAL.dll
+C:\Users\Пользователь\Desktop\Task9.App\Task9.DAL\obj\Debug\Task9.DAL.pdb
+C:\Users\Daniil\Desktop\Task9.App\Task9.DAL\bin\Debug\Task9.DAL.dll
+C:\Users\Daniil\Desktop\Task9.App\Task9.DAL\bin\Debug\Task9.DAL.pdb
+C:\Users\Daniil\Desktop\Task9.App\Task9.DAL\bin\Debug\Task9.Model.dll
+C:\Users\Daniil\Desktop\Task9.App\Task9.DAL\bin\Debug\Task9.Model.pdb
+C:\Users\Daniil\Desktop\Task9.App\Task9.DAL\obj\Debug\Task9.DAL.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\Task9.App\Task9.DAL\obj\Debug\Task9.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\Task9.App\Task9.DAL\obj\Debug\Task9.DAL.csproj.Up2Date
+C:\Users\Daniil\Desktop\Task9.App\Task9.DAL\obj\Debug\Task9.DAL.dll
+C:\Users\Daniil\Desktop\Task9.App\Task9.DAL\obj\Debug\Task9.DAL.pdb
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\Task9.DAL\bin\Debug\Task9.DAL.dll
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\Task9.DAL\bin\Debug\Task9.DAL.pdb
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\Task9.DAL\bin\Debug\Task9.Model.dll
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\Task9.DAL\bin\Debug\Task9.Model.pdb
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\Task9.DAL\obj\Debug\Task9.DAL.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\Task9.DAL\obj\Debug\Task9.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\Task9.DAL\obj\Debug\Task9.DAL.csproj.Up2Date
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\Task9.DAL\obj\Debug\Task9.DAL.dll
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\Task9.DAL\obj\Debug\Task9.DAL.pdb

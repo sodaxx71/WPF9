@@ -1,0 +1,128 @@
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\Task9.App.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\Task9.App_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\Task9.App_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\View\CoffeeDetailView.g.cs
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\View\CoffeeOverviewView.g.cs
+C:\Users\Daniil\Desktop\Task9.App\bin\Debug\Task9.App.exe.config
+C:\Users\Daniil\Desktop\Task9.App\bin\Debug\Task9.App.exe
+C:\Users\Daniil\Desktop\Task9.App\bin\Debug\Task9.App.pdb
+C:\Users\Daniil\Desktop\Task9.App\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\Task9.App\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\Task9.App\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniil\Desktop\Task9.App\bin\Debug\Task9.DAL.dll
+C:\Users\Daniil\Desktop\Task9.App\bin\Debug\Task9.Model.dll
+C:\Users\Daniil\Desktop\Task9.App\bin\Debug\Task9.DAL.pdb
+C:\Users\Daniil\Desktop\Task9.App\bin\Debug\Task9.Model.pdb
+C:\Users\Daniil\Desktop\Task9.App\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniil\Desktop\Task9.App\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniil\Desktop\Task9.App\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniil\Desktop\Task9.App\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Daniil\Desktop\Task9.App\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\Task9.App.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\View\CoffeeDetailView.g.cs
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\View\CoffeeOverviewView.g.cs
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\App.g.cs
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\Task9.App_MarkupCompile.cache
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\Task9.App_MarkupCompile.lref
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\App.baml
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\View\CoffeeDetailView.baml
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\View\CoffeeOverviewView.baml
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\Task9.App.g.resources
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\Task9.App.Properties.Resources.resources
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\Task9.App.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\Task9.App.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\Task9.App.csproj.Up2Date
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\Task9.App.exe
+C:\Users\Daniil\Desktop\Task9.App\obj\Debug\Task9.App.pdb
+C:\Users\Пользователь\Desktop\Task9.App\bin\Debug\Task9.App.exe.config
+C:\Users\Пользователь\Desktop\Task9.App\bin\Debug\Task9.App.exe
+C:\Users\Пользователь\Desktop\Task9.App\bin\Debug\Task9.App.pdb
+C:\Users\Пользователь\Desktop\Task9.App\bin\Debug\MaterialDesignColors.dll
+C:\Users\Пользователь\Desktop\Task9.App\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Пользователь\Desktop\Task9.App\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Пользователь\Desktop\Task9.App\bin\Debug\Task9.DAL.dll
+C:\Users\Пользователь\Desktop\Task9.App\bin\Debug\Task9.Model.dll
+C:\Users\Пользователь\Desktop\Task9.App\bin\Debug\Task9.DAL.pdb
+C:\Users\Пользователь\Desktop\Task9.App\bin\Debug\Task9.Model.pdb
+C:\Users\Пользователь\Desktop\Task9.App\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Пользователь\Desktop\Task9.App\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Пользователь\Desktop\Task9.App\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Пользователь\Desktop\Task9.App\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Пользователь\Desktop\Task9.App\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\App.baml
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\View\CoffeeDetailView.baml
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\View\CoffeeOverviewView.baml
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\Task9.App.g.resources
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\Task9.App.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\Task9.App.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\Task9.App.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\Task9.App.csproj.Up2Date
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\Task9.App.exe
+C:\Users\Пользователь\Desktop\Task9.App\obj\Debug\Task9.App.pdb
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\bin\Debug\Task9.App.exe.config
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\bin\Debug\Task9.App.exe
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\bin\Debug\Task9.App.pdb
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\bin\Debug\Task9.DAL.dll
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\bin\Debug\Task9.Model.dll
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\bin\Debug\Task9.DAL.pdb
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\bin\Debug\Task9.Model.pdb
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\Task9.App.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\View\CoffeeDetailView.g.cs
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\View\CoffeeOverviewView.g.cs
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\App.g.cs
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\Task9.App_MarkupCompile.cache
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\Task9.App_MarkupCompile.lref
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\App.baml
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\View\CoffeeDetailView.baml
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\View\CoffeeOverviewView.baml
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\Task9.App.g.resources
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\Task9.App.Properties.Resources.resources
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\Task9.App.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\Task9.App.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\Task9.App.csproj.Up2Date
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\Task9.App.exe
+C:\Users\Daniil\Desktop\Task9-OOP\Task9.App\obj\Debug\Task9.App.pdb
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\bin\Debug\Task9.App.exe.config
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\bin\Debug\Task9.App.exe
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\bin\Debug\Task9.App.pdb
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\bin\Debug\Task9.DAL.dll
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\bin\Debug\Task9.Model.dll
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\bin\Debug\Task9.DAL.pdb
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\bin\Debug\Task9.Model.pdb
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\Task9.App.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\View\CoffeeDetailView.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\View\CoffeeOverviewView.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\App.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\Task9.App_MarkupCompile.cache
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\Task9.App_MarkupCompile.lref
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\App.baml
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\View\CoffeeDetailView.baml
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\View\CoffeeOverviewView.baml
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\Task9.App.g.resources
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\Task9.App.Properties.Resources.resources
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\Task9.App.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\Task9.App.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\Task9.App.csproj.Up2Date
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\Task9.App.exe
+C:\Users\Daniil\Desktop\moto oop\Task9-OOP\Task9.App\obj\Debug\Task9.App.pdb
