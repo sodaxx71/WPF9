@@ -32,8 +32,6 @@
   <td>
    
   </td>
-  <td>
-   <img src="screenshots/3.png" alt="Форма просмотра товаров" border="1" width="300">
-  </td>
- </tr>
+ 
+ 
 </table>
