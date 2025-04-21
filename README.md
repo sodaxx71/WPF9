@@ -22,10 +22,10 @@
 <table border="0" cellspacing="10">
  <tr>
   <td>
-   <img src="screenshots/1.png" alt="Главное окно приложения" border="1" width="300">
+   <img src="screenshots/1.jpg" alt="Главное окно приложения" border="1" width="300">
   </td>
   <td>
-   <img src="screenshots/2.png" alt="Форма редактирования товаров" border="1" width="300">
+   <img src="screenshots/2.jpg" alt="Форма редактирования товаров" border="1" width="300">
   </td>
  </tr>
  <tr>
